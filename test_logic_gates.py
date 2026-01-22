@@ -140,5 +140,5 @@ if __name__ == "__main__":
     test_nor_gate()
     test_not_gate()
     test_xor_gate()
-    print("All perceptron tests passed ✅")
+    print("All perceptron gate tests passed!")
     

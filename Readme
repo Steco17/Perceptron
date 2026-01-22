@@ -99,7 +99,7 @@ python test_logic_gates.py
 
 If everything is correct, you should see:
 ```bash
-All perceptron tests passed ✅
+All perceptron gate tests passed
 ```
 ## Issue Faced: NAND failing for [1, 1]
 
